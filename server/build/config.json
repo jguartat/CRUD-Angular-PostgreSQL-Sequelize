@@ -1,0 +1,13 @@
+{
+    "development": {
+        "cnx": {
+            "username": "postgres",
+            "password": "j0$u3p0$79r3$",
+            "database": "postgres",
+            "host": "127.0.0.1",
+            "port": 5432,
+            "dialect": "postgres"
+        },
+        "database": "ng_games_db"
+    }
+}
